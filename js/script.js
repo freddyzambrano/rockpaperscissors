@@ -9,3 +9,6 @@
 
 // DOCUMENT READY FUNCTION BELOW
 
+$("#rock").click(function() {
+    $("#scissors").toggle();
+});
