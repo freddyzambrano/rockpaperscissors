@@ -9,6 +9,7 @@
 
 // DOCUMENT READY FUNCTION BELOW
 
-$("#rock").click(function() {
-    $("#scissors").toggle();
+$("#shoot").click(function() {
+    $("#userChoice").text($("input").val
+    ());
 });

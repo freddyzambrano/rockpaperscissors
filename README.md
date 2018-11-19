@@ -14,7 +14,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 - [x] Make your site live on gh-pages
 
 ### JavaScript
-- [ ] Add a click handler that displays the value of the input within the div with the id `#userChoice`
+- [x] Add a click handler that displays the value of the input within the div with the id `#userChoice`
 
 
 ### HTML and CSS
@@ -22,8 +22,8 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 - [ ] Customize your HTML with CSS
 
 #### Wrap
-- [ ] Push your changes!
-- [ ] Save and submit your website using the link on the Daily Session Document.
+- [x] Push your changes!
+- [x] Save and submit your website using the link on the Daily Session Document.
 
 ## Day 2
 
