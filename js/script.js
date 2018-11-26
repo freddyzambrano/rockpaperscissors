@@ -10,6 +10,11 @@
 // DOCUMENT READY FUNCTION BELOW
 
 $("#shoot").click(function() {
-    $("#userChoice").text($("input").val
-    ());
+    $("#userChoice").text($("input").val());
+    
+    // create computer choice
+    
+    // figure out winner
+    
+    // display winner
 });
